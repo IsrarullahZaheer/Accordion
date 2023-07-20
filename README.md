@@ -1,3 +1,6 @@
+
+![Accordion](https://github.com/IsrarullahZaheer/Accordion/assets/70327713/5d0ecf84-96d2-4c93-b16b-1b301feef12b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
